@@ -1,0 +1,12 @@
+name = "my-vpnn"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+# node_compat = true
+workers_dev = true
+
+[vars]
+# PROXYIP = "211.230.110.231:50008"
+UUID = "b831145b-3a2e-4c5d-9f1a-7c8b9d0e1f2a"
+# TROJAN_PASSWORD = "your-trojan-password"  # Optional: If not set, UUID will be used as password
+# SOCKS5 = "127.0.0.1:1080"
+# SOCKS5_RELAY = "true"
